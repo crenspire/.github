@@ -1,46 +1,44 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://crenspire.com/assets/logo.png" alt="Crenspire Logo" width="120" />
+  <img src="./banner.svg" alt="Crenspire Technologies" width="100%" />
 </p>
 
 <h1 align="center">🚀 Crenspire Technologies</h1>
-<p align="center"><em>"Empowering ideas. Building the future."</em></p>
-
----
+<p align="center"><em>Empowering ideas. Building the future.</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founded-2019-blue" />
-  <img src="https://img.shields.io/badge/Team-20%2B-brightgreen" />
-  <img src="https://img.shields.io/badge/Projects-100%2B-success" />
-  <img src="https://img.shields.io/badge/HQ-Ahmedabad%2C%20India-orange" />
+  <a href="#-about-us"><img src="https://img.shields.io/badge/Founded-2019-blue" alt="Founded 2019"></a>
+  <a href="#-achievements"><img src="https://img.shields.io/badge/Projects-100%2B-success" alt="100+ Projects"></a>
+  <a href="#-about-us"><img src="https://img.shields.io/badge/Team-20%2B-brightgreen" alt="Team 20+"/></a>
+  <a href="#-connect-with-us"><img src="https://img.shields.io/badge/HQ-Ahmedabad%2C%20India-orange" alt="Ahmedabad, India"/></a>
 </p>
 
 ---
 
-## 🏢 About Us  
+## 🏢 About Us
 
-At **Crenspire Technologies**, we don’t just write code — we solve problems, design experiences, and enable businesses to scale.  
+At **Crenspire Technologies**, we don’t just write code — we solve problems, design experiences, and enable businesses to scale.
 
-- 💡 **Innovation-driven** – Exploring AI/ML, IoT, Blockchain, AR/VR  
-- 🎯 **Client-centric** – Partnering with companies globally  
-- 🛠️ **End-to-end delivery** – From idea → design → development → QA → deployment  
-
----
-
-## 🛠️ Our Services  
-
-- 🌐 **Web Development** (React, Node, Laravel, MERN, PHP)  
-- 📱 **Mobile Apps** (iOS, Android, Flutter, React Native)  
-- 🎨 **UI/UX & Product Design**  
-- ✅ **QA & Automation Testing**  
-- ☁️ **DevOps & Cloud** (Kubernetes, Docker, CI/CD, AWS, GCP)  
-- 🤖 **AI/ML Solutions**  
-- 🔗 **Blockchain & Web3**  
-- 🌍 **IoT & Embedded Systems**  
+- 💡 **Innovation-driven** – Exploring AI/ML, IoT, Blockchain, AR/VR
+- 🎯 **Client-centric** – Partnering with companies globally
+- 🛠️ **End-to-end delivery** – From idea → design → development → QA → deployment
 
 ---
 
-## 💻 Tech Stack Highlights  
+## 🛠️ Our Services
+
+- 🌐 **Web Development** (React, Node, Laravel, MERN, PHP)
+- 📱 **Mobile Apps** (iOS, Android, Flutter, React Native)
+- 🎨 **UI/UX & Product Design**
+- ✅ **QA & Automation Testing**
+- ☁️ **DevOps & Cloud** (Kubernetes, Docker, CI/CD, AWS, GCP)
+- 🤖 **AI/ML Solutions**
+- 🔗 **Blockchain & Web3**
+- 🌍 **IoT & Embedded Systems**
+
+---
+
+## 💻 Tech Stack Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
@@ -57,36 +55,43 @@ At **Crenspire Technologies**, we don’t just write code — we solve problems,
 
 ---
 
-## 🌟 Our Values  
+## 🌟 Our Values
 
-- 🔹 **Innovation First** – We love exploring new technologies  
-- 🔹 **Transparency** – Clear communication & honest feedback  
-- 🔹 **Quality & Scalability** – Products designed to last  
-- 🔹 **Global Mindset** – Serving clients across continents    
-
----
-
-## 📈 Achievements  
-
-- 🌍 Served clients across **5+ countries**  
-- 💻 Delivered **100+ projects** successfully  
-- 🤝 Trusted by **startups & enterprises** alike  
+- 🔹 **Innovation First** – We love exploring new technologies
+- 🔹 **Transparency** – Clear communication & honest feedback
+- 🔹 **Quality & Scalability** – Products designed to last
+- 🔹 **Global Mindset** – Serving clients across continents
 
 ---
 
-## 📬 Connect With Us  
+## 👥 Leadership
 
-🌐 Website: [https://crenspire.com](https://crenspire.com)  
-💼 LinkedIn: [Crenspire Technologies](https://www.linkedin.com/company/crenspire-technologies/)  
-📸 Instagram: [@crenspire](https://www.instagram.com/crenspire)  
-✉️ Email: [hello@crenspire.com](mailto:hello@crenspire.com)  
+- **Vivek Dhamecha** – Founder
+- **Akshay Joshi** – Co‑Founder & Director
 
 ---
 
-## 🤝 Open Source & Collaboration  
+## 📈 Achievements
+
+- 🌍 Served clients across **5+ countries**
+- 💻 Delivered **100+ projects** successfully
+- 🤝 Trusted by **startups & enterprises** alike
+
+---
+
+## 📬 Connect With Us
+
+🌐 Website: https://crenspire.com  
+💼 LinkedIn: https://www.linkedin.com/company/crenspire-technologies/  
+📸 Instagram: https://www.instagram.com/crenspire  
+✉️ Email: hello@crenspire.com
+
+---
+
+## 🤝 Open Source & Collaboration
 
 We believe in the power of community 🌐.  
-Stay tuned as we publish tools, starter kits, and open-source contributions right here on GitHub!  
+Stay tuned as we publish tools, starter kits, and open-source contributions right here on GitHub!
 
 ---
 
