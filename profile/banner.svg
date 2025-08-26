@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Crenspire Technologies — GitHub Profile Banner</title>
+  <desc id="desc">A clean gradient banner with Crenspire logotype and tagline.</desc>
+  <defs>
+    <!-- Light mode gradient -->
+    <linearGradient id="gradLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <!-- Dark mode gradient (overridden via CSS) -->
+    <linearGradient id="gradDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#4338ca"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="1200" height="360" rx="28" ry="28"/>
+    </clipPath>
+
+    <style>
+      :root { --ink: #0b1220; --ink-sub:#0b1220cc; }
+      @media (prefers-color-scheme: dark) {
+        :root { --ink: #f8fafc; --ink-sub:#f8fafccc; }
+      }
+      .bg { fill: url(#gradLight); }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: url(#gradDark); }
+      }
+      .title { font: 700 56px/1.1 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji"; fill: var(--ink); letter-spacing: 0.5px; }
+      .tag { font: 400 22px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans"; fill: var(--ink-sub); }
+      .pill { fill: #ffffff33; }
+      @media (prefers-color-scheme: dark) { .pill { fill: #00000033; } }
+      .pillText { font: 600 16px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell; fill: #fff; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <!-- background gradient -->
+    <rect class="bg" x="0" y="0" width="1200" height="360"/>
+
+    <!-- subtle overlay shapes -->
+    <g opacity="0.16">
+      <circle cx="1080" cy="-20" r="220" fill="#ffffff"/>
+      <circle cx="-20" cy="340" r="180" fill="#000000"/>
+    </g>
+
+    <!-- dots grid -->
+    <g opacity="0.15">
+      <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+        <circle cx="2" cy="2" r="2" fill="#fff"/>
+      </pattern>
+      <rect x="760" y="40" width="380" height="120" fill="url(#dots)"/>
+    </g>
+
+    <!-- Title & Tagline -->
+    <g transform="translate(64, 112)">
+      <text class="title">Crenspire Technologies</text>
+      <text class="tag" y="68">Empowering ideas. Building the future.</text>
+    </g>
+
+    <!-- Pills: quick stats -->
+    <g transform="translate(64, 220)">
+      <g transform="translate(0,0)">
+        <rect class="pill" x="0" y="-20" rx="14" ry="14" width="170" height="36"/>
+        <text class="pillText" x="16" y="4">Founded 2019</text>
+      </g>
+      <g transform="translate(190,0)">
+        <rect class="pill" x="0" y="-20" rx="14" ry="14" width="170" height="36"/>
+        <text class="pillText" x="16" y="4">Team 20+ </text>
+      </g>
+      <g transform="translate(380,0)">
+        <rect class="pill" x="0" y="-20" rx="14" ry="14" width="200" height="36"/>
+        <text class="pillText" x="16" y="4">100+ Projects</text>
+      </g>
+      <g transform="translate(600,0)">
+        <rect class="pill" x="0" y="-20" rx="14" ry="14" width="240" height="36"/>
+        <text class="pillText" x="16" y="4">Ahmedabad, India</text>
+      </g>
+    </g>
+
+    <!-- Corner accent -->
+    <path d="M1200,260 v100 h-260 c120,-24 200,-70 260,-100z" fill="#ffffff22"/>
+  </g>
+</svg>
