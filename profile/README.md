@@ -64,13 +64,6 @@ At **Crenspire Technologies**, we don’t just write code — we solve problems,
 
 ---
 
-## 👥 Leadership
-
-- **Vivek Dhamecha** – Founder
-- **Akshay Joshi** – Co‑Founder & Director
-
----
-
 ## 📈 Achievements
 
 - 🌍 Served clients across **5+ countries**
