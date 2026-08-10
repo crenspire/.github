@@ -1,91 +1,505 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./banner.svg" alt="Crenspire Technologies" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">🚀 Crenspire Technologies</h1>
-<p align="center"><em>Empowering ideas. Building the future.</em></p>
+<img src="./logo.png" alt="Crenspire Technologies" width="340" />
 
-<p align="center">
-  <a href="#-about-us"><img src="https://img.shields.io/badge/Founded-2019-blue" alt="Founded 2019"></a>
-  <a href="#-achievements"><img src="https://img.shields.io/badge/Projects-100%2B-success" alt="100+ Projects"></a>
-  <a href="#-about-us"><img src="https://img.shields.io/badge/Team-20%2B-brightgreen" alt="Team 20+"/></a>
-  <a href="#-connect-with-us"><img src="https://img.shields.io/badge/HQ-Ahmedabad%2C%20India-orange" alt="Ahmedabad, India"/></a>
-</p>
+<br />
 
----
+### Software. Systems. Intelligence.
 
-## 🏢 About Us
+**We build scalable software, AI systems, developer tools, and digital products.**
 
-At **Crenspire Technologies**, we don’t just write code — we solve problems, design experiences, and enable businesses to scale.
+<br />
 
-- 💡 **Innovation-driven** – Exploring AI/ML, IoT, Blockchain, AR/VR
-- 🎯 **Client-centric** – Partnering with companies globally
-- 🛠️ **End-to-end delivery** – From idea → design → development → QA → deployment
+<a href="https://crenspire.com">
+  <img src="https://img.shields.io/badge/WEBSITE-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+&nbsp;
+<a href="https://github.com/crenspire">
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/company/crenspire-technologies/">
+  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
----
+<br />
+<br />
 
-## 🛠️ Our Services
-
-- 🌐 **Web Development** (React, Node, Laravel, MERN, PHP)
-- 📱 **Mobile Apps** (iOS, Android, Flutter, React Native)
-- 🎨 **UI/UX & Product Design**
-- ✅ **QA & Automation Testing**
-- ☁️ **DevOps & Cloud** (Kubernetes, Docker, CI/CD, AWS, GCP)
-- 🤖 **AI/ML Solutions**
-- 🔗 **Blockchain & Web3**
-- 🌍 **IoT & Embedded Systems**
+</div>
 
 ---
 
-## 💻 Tech Stack Highlights
+## We build things that matter.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
-</p>
+Crenspire is a software engineering company focused on building **modern products and scalable systems**.
+
+From an idea on a whiteboard to infrastructure running in production, we work across **product, engineering, cloud, and AI**.
+
+<div align="center">
+
+`PRODUCTS` &nbsp; · &nbsp; `PLATFORMS` &nbsp; · &nbsp; `AI` &nbsp; · &nbsp; `INFRASTRUCTURE` &nbsp; · &nbsp; `OPEN SOURCE`
+
+</div>
 
 ---
 
-## 🌟 Our Values
+# What We Build
 
-- 🔹 **Innovation First** – We love exploring new technologies
-- 🔹 **Transparency** – Clear communication & honest feedback
-- 🔹 **Quality & Scalability** – Products designed to last
-- 🔹 **Global Mindset** – Serving clients across continents
+### AI & Intelligent Systems
 
----
+Building software that can reason, automate, and work alongside people.
 
-## 📈 Achievements
-
-- 🌍 Served clients across **5+ countries**
-- 💻 Delivered **100+ projects** successfully
-- 🤝 Trusted by **startups & enterprises** alike
-
----
-
-## 📬 Connect With Us
-
-🌐 Website: https://crenspire.com  
-💼 LinkedIn: https://www.linkedin.com/company/crenspire-technologies/  
-📸 Instagram: https://www.instagram.com/crenspire  
-✉️ Email: hello@crenspire.com
+- AI agents & agentic workflows
+- LLM-powered applications
+- Knowledge & document intelligence
+- Retrieval-augmented generation
+- AI automation
+- AI APIs & microservices
+- Intelligent business workflows
 
 ---
 
-## 🤝 Open Source & Collaboration
+### SaaS & Product Engineering
 
-We believe in the power of community 🌐.  
-Stay tuned as we publish tools, starter kits, and open-source contributions right here on GitHub!
+Complex products made simple.
+
+- Multi-tenant SaaS platforms
+- Enterprise applications
+- Subscription & billing systems
+- Business automation
+- Real-time applications
+- API-first architectures
+- Operational platforms
 
 ---
 
-<p align="center">⭐️ If you like what we do, give our repos a star and follow us for updates!</p>
+### Cloud & Infrastructure
+
+Systems designed to scale.
+
+- Cloud-native architecture
+- AWS infrastructure
+- Containerized applications
+- Event-driven systems
+- Distributed services
+- CI/CD
+- Background processing
+- Observability & monitoring
+
+---
+
+### Developer Tools
+
+We build tools because we are developers too.
+
+- Framework integrations
+- Starter kits
+- Component libraries
+- CLI tools
+- Developer infrastructure
+- Open-source packages
+- Engineering utilities
+
+---
+
+# Open Source
+
+We don't just build software for businesses.
+
+**We build software for developers.**
+
+Our GitHub is where we share the tools, libraries, experiments, and foundations we believe should be reusable.
+
+<br />
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Glass UI
+
+A modern **glassmorphic component library** built with React, Next.js, shadcn/ui and Tailwind CSS.
+
+<br />
+
+`React` `Next.js` `TypeScript` `shadcn/ui`
+
+<br />
+<br />
+
+⭐ **86+**
+
+<br />
+<br />
+
+<a href="https://github.com/crenspire/glass-ui">
+View project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Laravel WhatsApp
+
+A Laravel integration for the **WhatsApp Business Cloud API**, including messaging, media, webhooks and multi-tenancy.
+
+<br />
+
+`PHP` `Laravel` `WhatsApp API`
+
+<br />
+<br />
+
+⭐ **25+**
+
+<br />
+<br />
+
+<a href="https://github.com/crenspire/laravel-whatsapp">
+View project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Django React Boilerplate
+
+A modern Django application foundation using **Inertia, React, ShadCN UI and Tailwind CSS**.
+
+<br />
+
+`Django` `React` `Inertia` `Tailwind`
+
+<br />
+<br />
+
+<a href="https://github.com/crenspire">
+View project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Django Vue Boilerplate
+
+A modern Django application foundation using **Inertia, Vue, ShadCN UI and Tailwind CSS**.
+
+<br />
+
+`Django` `Vue` `Inertia` `Tailwind`
+
+<br />
+<br />
+
+<a href="https://github.com/crenspire">
+View project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Yii3 React Starter
+
+A modern Yii3 application foundation powered by **Inertia, React, ShadCN UI and Tailwind CSS**.
+
+<br />
+
+`Yii3` `React` `Inertia`
+
+<br />
+<br />
+
+<a href="https://github.com/crenspire">
+View project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### XPM
+
+An experimental **Universal Package Manager** written in Go.
+
+<br />
+
+One idea:
+
+**One package manager. Multiple ecosystems.**
+
+<br />
+
+`Go` `CLI` `Developer Tools`
+
+<br />
+<br />
+
+<a href="https://github.com/crenspire">
+View project →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+### Explore more
+
+<a href="https://github.com/crenspire?tab=repositories">
+
+**View all Crenspire repositories →**
+
+</a>
+
+</div>
+
+---
+
+# Our Stack
+
+We don't believe in choosing technology because it's fashionable.
+
+**We choose what fits the problem.**
+
+### Backend
+
+`PHP` · `Laravel` · `Symfony` · `Python` · `Django` · `Node.js` · `Go`
+
+### Frontend
+
+`React` · `Next.js` · `Vue` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
+
+### Mobile
+
+`Flutter` · `React Native`
+
+### Data
+
+`PostgreSQL` · `MySQL` · `Redis`
+
+### Infrastructure
+
+`AWS` · `Docker` · `Nginx` · `Linux` · `CI/CD`
+
+### AI
+
+`LLMs` · `AI Agents` · `RAG` · `AI APIs` · `Automation`
+
+---
+
+# Engineering Philosophy
+
+### Build simple.
+
+Complexity is expensive.
+
+We prefer simple systems that can evolve over complicated systems that try to solve every future problem today.
+
+---
+
+### Design for change.
+
+Requirements change.
+
+Architecture should make change possible instead of making change painful.
+
+---
+
+### Automate everything.
+
+If a computer can do it reliably, we shouldn't have to do it manually.
+
+---
+
+### Open source what makes sense.
+
+Reusable solutions shouldn't have to be rebuilt by every team.
+
+---
+
+### Ship.
+
+Ideas become valuable when they reach users.
+
+---
+
+# From Idea → Production
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<strong>01</strong><br />
+IDEA
+
+</td>
+<td>→</td>
+<td align="center">
+
+<strong>02</strong><br />
+PRODUCT
+
+</td>
+<td>→</td>
+<td align="center">
+
+<strong>03</strong><br />
+ARCHITECTURE
+
+</td>
+<td>→</td>
+<td align="center">
+
+<strong>04</strong><br />
+ENGINEERING
+
+</td>
+<td>→</td>
+<td align="center">
+
+<strong>05</strong><br />
+CLOUD
+
+</td>
+<td>→</td>
+<td align="center">
+
+<strong>06</strong><br />
+PRODUCTION
+
+</td>
+</tr>
+</table>
+
+<br />
+
+**OBSERVE → IMPROVE → REPEAT**
+
+</div>
+
+We work across the entire lifecycle.
+
+**Product → Design → Engineering → Infrastructure → Operations**
+
+---
+
+# Currently Exploring
+
+The interesting part of technology is what's next.
+
+### AI Agents
+
+- Autonomous workflows
+- Tool-using agents
+- Agent orchestration
+- Business automation
+- AI-native applications
+
+### Developer Infrastructure
+
+- Package management
+- Framework tooling
+- Developer experience
+- CLI infrastructure
+- Reusable developer platforms
+
+### Cloud Native
+
+- Distributed systems
+- Event-driven architecture
+- Real-time infrastructure
+- Scalable platforms
+- Infrastructure automation
+
+### Modern Interfaces
+
+- Design systems
+- Component libraries
+- AI-native UX
+- Modern web applications
+- Interactive product experiences
+
+<br />
+
+Some experiments become products.
+
+Some become open source.
+
+Some simply teach us something.
+
+<div align="center">
+
+**That's the point.**
+
+</div>
+
+---
+
+# Building With Us
+
+Have a difficult software problem?
+
+Need to turn an idea into a product?
+
+Want to build something that needs to scale?
+
+<div align="center">
+
+## Let's talk.
+
+<br />
+
+<a href="https://crenspire.com">
+  <img src="https://img.shields.io/badge/crenspire.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Crenspire Website" />
+</a>
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/company/crenspire-technologies/">
+LinkedIn
+</a>
+
+&nbsp; · &nbsp;
+
+<a href="https://github.com/crenspire">
+GitHub
+</a>
+
+<br />
+<br />
+<br />
+
+---
+
+<img src="./logo.png" alt="Crenspire Technologies" width="180" />
+
+<br />
+<br />
+
+**Engineering the next version of software.**
+
+<br />
+
+<sub>Crenspire Technologies</sub>
+
+</div>
