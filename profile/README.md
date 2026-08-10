@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="Crenspire Technologies" width="340" />
+<img src="./logo.png" alt="Crenspire Technologies Pvt Ltd" width="340" />
 
 <br />
 
@@ -491,7 +491,7 @@ GitHub
 
 ---
 
-<img src="./logo.png" alt="Crenspire Technologies" width="180" />
+<img src="./logo.png" alt="Crenspire Technologies Pvt Ltd" width="180" />
 
 <br />
 <br />
@@ -500,6 +500,6 @@ GitHub
 
 <br />
 
-<sub>Crenspire Technologies</sub>
+<sub>Crenspire Technologies Pvt Ltd</sub>
 
 </div>
